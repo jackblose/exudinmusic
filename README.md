@@ -1,6 +1,6 @@
 # Udin Music 🎵
 <p align="center">
-  <img src="https://telegra.ph/file/6b14ab68ab3dfd4200ca5.jpg">
+  <img src=https://telegra.ph/file/72fee3e0ab7e48b40d36c.jpg">
 </p>
 Cara termudah untuk membuat Bot ini
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/udinnbot/UdinnMusic"><img src="https://img.shields.io/badge/DEPLOY KE-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
