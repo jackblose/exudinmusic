@@ -1,9 +1,9 @@
-# Gohan Music 🎵
+# Udin Music 🎵
 <p align="center">
   <img src="https://telegra.ph/file/6b14ab68ab3dfd4200ca5.jpg">
 </p>
 Cara termudah untuk membuat Bot ini
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Good-Boys-Exe/GohanMusic"><img src="https://img.shields.io/badge/DEPLOY KE-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/udinnbot/UdinnMusic"><img src="https://img.shields.io/badge/DEPLOY KE-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300"heigh="100" /></a></p>
 
 Dapatkan STRING SESSION klik tombol dibawah untuk mendapatkan string (P)
 
