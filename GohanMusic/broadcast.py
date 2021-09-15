@@ -28,3 +28,4 @@ async def broadcast(_, message: Message):
             except:
                 failed=failed+1
                 await message.reply_text(f"`Broadcast Selesai` \n\n**Dikirim ke:** `{sent}` Obrolan \n**Gagal dikirim:** {failed} Obrolan")
+
