@@ -89,3 +89,4 @@ async def skip(_, message: Message):
     if not qeue:
         return
     await message.reply_text(f"**⏭️ Melewati lagu:** {skip[0]}\n**▶️ Sekarang memutar lagu:** {qeue[0][0]}")
+
